@@ -1,0 +1,1 @@
+// Moved to app/words/page.tsx
